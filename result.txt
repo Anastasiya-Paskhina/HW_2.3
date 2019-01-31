@@ -1,0 +1,12 @@
+2019-01-31 23:08:53.343620 my_function ('H', 'B') {'multi': 1} ('H', 'B')
+2019-01-31 23:10:08.212902 my_function ('H', 'B') {'multi': 1} ('H', 'B')
+2019-01-31 23:11:15.949777 my_function ('H', 'B') {'multi': 1} ('H', 'B')
+2019-01-31 23:11:48.330629 example ('H', 'B') {'multi': 1} ('H', 'B')
+2019-01-31 23:18:33.927828 example ('H', 'B') {'multi': 1} ('H', 'B')
+2019-01-31 23:19:55.041467 example ('H', 'B') {'multi': 1} ('H', 'B')
+2019-01-31 23:19:55.043467 my_generators ('result2.txt',) {} <generator object my_generators at 0x0094EEB0>
+2019-01-31 23:21:28.033786 example ('H', 'B') {'multi': 1} ('H', 'B')
+2019-01-31 23:21:39.034415 example ('H', 'B') {'multi': 1} ('H', 'B')
+2019-01-31 23:21:39.046416 my_generators ('result2.txt',) {} <generator object my_generators at 0x0049EEB0>
+2019-01-31 23:24:46.565141 example ('H', 'B') {'multi': 1} ('H', 'B')
+2019-01-31 23:24:46.584142 generate ('result2.txt',) {} <generator object generate at 0x00AAEE70>
